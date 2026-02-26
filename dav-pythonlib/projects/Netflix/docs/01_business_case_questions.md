@@ -57,3 +57,11 @@
 - Pandas: fillna(), SimpleImputer Class
 - String functions - split, contains, replace, bins etc
 - Univariate, BiVariate, Multivariate analysis
+
+### Insights / Recommendations
+-
+-
+
+### Impact on Business
+- 
+-
