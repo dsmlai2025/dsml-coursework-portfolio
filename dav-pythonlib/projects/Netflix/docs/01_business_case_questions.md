@@ -52,7 +52,7 @@
 - ML algos cannot deal with missing values and degrade their model performance
 - duplicate records lead to skewed results and waste computation resources
 
-### How techniques did you use?
+### What techniques did you use?
 - Categorical col: Mode.
 - Mode is used when categorical variable has dominant category
 - Numerical col: Mean/Median
