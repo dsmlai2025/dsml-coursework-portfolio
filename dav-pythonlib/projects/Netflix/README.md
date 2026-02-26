@@ -1,9 +1,21 @@
 ### NETFLIX Business Case
  📺🎬📽️ **Netflix - Exploratory Data Analysis** 🍿👥👀
 
+## 🎯 **Business Problem & Objectives**
+
+**Delve into Netflix's dataset to guide strategic decision-making for content production and identify business growth opportunities across 100+ countries.**
+
+| Objective | Analysis Approach | Business Impact |
+|-----------|------------------|-----------------|
+| **🎬 Content Strategy** | Univariate + Bivariate analysis of movies/TV shows | Guide $17B annual content spend |
+| **🌍 Market Expansion** | Country-wise genre + content type trends | Identify high-growth regions |
+| **📊 Actionable Insights** | Data exploration, cleaning, transformation | Influence production + marketing |
+| **🎯 Customer Impact** | Popularity patterns by genre/country | Better targeting → retention + penetration |
+
+**Results → Optimized content strategy, enhanced customer experience, improved global market penetration.**
+
 ## 🎯 **Overview**
 This repository contains an exploratory data analysis (EDA) project focusing on Netflix data. 
-The goal of this project is to clean the data , unnest the comma seperated columns and treat the missing values, gain insights, visualize trends, and explore patterns within the Netflix dataset. 
 
 🏷️ **Project Objective:**
     Uncover patterns, visualize trends, and gain insights into Netflix's content and user reviews.
@@ -17,6 +29,7 @@ See the `data` subfolder
 #### 📝 Project Report
     You can access the project python file here -> Python
     You can access the project report in pdf here -> Report
+
     
 ## 🔍 **Approach**
 
