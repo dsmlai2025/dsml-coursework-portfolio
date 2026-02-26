@@ -27,11 +27,15 @@
 - Which format maximizes hrs viewed?
 - Release patterns correlate with binge watching
 - What movie genre drives maximum watch time
-- Movie trends over years
+- Movie & TV show trends over years
+- Seasonality of content
 - Favorite actors/directors
+- Actor director combinations
 - Time to launch movie/tv show
 - Type of content preference in different countries
-- Distribution of content type
+- Distribution of content type by region
+- Content duration, rating, genre preferences in different regions
+- 
 
 ### How did you approach the project?
 - Load the dataset
@@ -59,9 +63,17 @@
 - Univariate, BiVariate, Multivariate analysis
 
 ### Insights / Recommendations
--
--
+1. Content aligned with Drama, Comedy is recommended due to their popularity across various countries and in both TV Shows and Movies
+2. TV shows added first month of every year or during July/August months
+3. For US audience movie length of 80-120 min are recommended
+4. Target the content rating of 14+ for US, India and Mature/R rating for UK
+5. Japanse audience consider adding Anime genres and for South Korean audience, Romantic genres
+6. When creating content, consider popular actor/director for each country and prioritize those combinations
+7. Content should be added within 1 year of release
+8. TV shows with 1 season is very popular
 
 ### Impact on Business
-- 
--
+1. Content Strategy: Identified popular genres, tailored content strategy, leading to increased engagement and retention.
+2. Scheduling Optimization: Optimized content release timing, maximizing viewership, and enhancing subscriber satisfaction.
+3. Audience Targeting: Refined targeting strategies based on preferred content lengths, ratings, and genres, attracting diverse demographics.
+4. Content Localization: Invested in localized content production, considering cultural and regional preferences, strengthening global presence.
