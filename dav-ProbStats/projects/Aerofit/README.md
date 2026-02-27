@@ -1,6 +1,6 @@
 AEROFIT Business Case
 
-📺🎬📽️ AEROFIT - Probability Statistics 🍿👥👀
+🚴‍♂️🏋️ AEROFIT - Probability Statistics 🏋️‍♂️🚴‍♀️
 🎯 Business Problem & Objectives
 
 ##### About Aerofit
